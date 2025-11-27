@@ -1,0 +1,1 @@
+# calculate-the-marks-of-the-students-by-c-programing.
